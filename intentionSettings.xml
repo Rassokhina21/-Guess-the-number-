@@ -3,5 +3,6 @@
     <ignoreAction name="XML/Insert namespace prefix" />
     <ignoreAction name="Java/Refactorings/Introduce local variable" />
     <ignoreAction name="XML/Remove tag" />
+    <ignoreAction name="XML/Convert text to CData" />
   </component>
 </application>
