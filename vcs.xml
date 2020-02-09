@@ -6,6 +6,10 @@
           <option name="url" value="https://github.com/KyuzalovaKarina/otus-sample.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/KyuzalovaKarina/otus-sample" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Рабочий стол/ТУТ ЛЕЖАТ АВТОТЕСТЫ ПО OTUS/lesson10_barhanova" />
