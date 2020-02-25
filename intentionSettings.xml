@@ -4,5 +4,6 @@
     <ignoreAction name="Java/Refactorings/Introduce local variable" />
     <ignoreAction name="XML/Remove tag" />
     <ignoreAction name="XML/Convert text to CData" />
+    <ignoreAction name="Java/Declaration/Unimplement Interface/Class" />
   </component>
 </application>
