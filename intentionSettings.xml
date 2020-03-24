@@ -5,5 +5,6 @@
     <ignoreAction name="XML/Remove tag" />
     <ignoreAction name="XML/Convert text to CData" />
     <ignoreAction name="Java/Declaration/Unimplement Interface/Class" />
+    <ignoreAction name="Language injection/Inject language or reference" />
   </component>
 </application>

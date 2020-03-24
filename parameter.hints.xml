@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="java.net.URL.URL(spec)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
