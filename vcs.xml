@@ -18,8 +18,16 @@
           <option name="url" value="https://github.com/Rassokhina21/otus-sample.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://barhanova@bitbucket.org/21vek/qa_tests.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://bitbucket.org" />
+          <option name="userName" value="barhanova" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Рабочий стол/ТУТ ЛЕЖАТ АВТОТЕСТЫ ПО OTUS/lesson10_barhanova/otus-sample" />
+    <option name="cloneParentDir" value="$USER_HOME$/Рабочий стол" />
   </component>
 </application>
