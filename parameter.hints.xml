@@ -5,5 +5,8 @@
         <added pattern="java.net.URL.URL(spec)" />
       </blacklist>
     </blacklists>
+    <disabledLanguages>
+      <language id="JAVA" />
+    </disabledLanguages>
   </component>
 </application>
