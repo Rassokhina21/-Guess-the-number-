@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="Main" type="CLASS" />
       <mapping pattern="gitignore.xml" type="GitIgnore file" />
+      <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="sadas" type="PLAIN_TEXT" />
